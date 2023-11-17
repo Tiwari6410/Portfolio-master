@@ -13,7 +13,7 @@ const SocialLinks = () => {
           <FaLinkedinIn size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/arvind-tiwari-ba4393215/",
+      href: "https://www.linkedin.com/in/arvind-tiwari6410/",
       style: "rounded-tr-md",
     },
     {
